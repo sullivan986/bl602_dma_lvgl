@@ -1,0 +1,1 @@
+make ninja CHIP=bl602 BOARD=bl602dk
